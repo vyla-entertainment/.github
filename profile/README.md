@@ -27,7 +27,6 @@ It is designed for a mobile-first experience with a unified API layer that deliv
 |---|---|
 | Multi-Source Streaming | Aggregates multiple providers for movies and TV via TMDB-based routing |
 | Media Proxying | Handles stream delivery with CORS handling and URL rewriting |
-| Secure Token Flow | Session-based request validation for controlled access |
 | Personalized UI | Themed interface with responsive mobile-first design |
 
 ---
