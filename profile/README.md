@@ -1,6 +1,6 @@
 <div align="center">
 
-![Vyla API](https://github.com/EndOverdosing/Vyla-Player-API/blob/main/images/banner.png?raw=true)
+![Vyla](https://vyla.pages.dev/images/thumbnail.png)
 
 # Vyla Entertainment
 
