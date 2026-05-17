@@ -27,12 +27,10 @@ It is designed for a mobile-first experience with a unified API layer that deliv
 |---|---|
 | Multi-Source Streaming | Aggregates multiple providers for movies and TV via TMDB-based routing |
 | Media Proxying | Handles stream delivery with CORS handling and URL rewriting |
-| Personalized UI | Themed interface with responsive mobile-first design |
 
 ---
 
 ## Ecosystem Components
 
 - **Vyla API** — Backend API layer for media routing and content resolution  
-- **Vyla Interface** — Secure request and session handling layer  
-- **Vyla Web** — Main frontend for unified media access
+- **Vyla Player** — Main player frontend for unified media access
