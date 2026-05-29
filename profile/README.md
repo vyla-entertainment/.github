@@ -34,3 +34,4 @@ It is designed for a mobile-first experience with a unified API layer that deliv
 
 - **Vyla API** — Backend API layer for media routing and content resolution  
 - **Vyla Player** — Main player frontend for unified media access
+- **Vyla Cli-Player** - Fun frontend developement using the stream API.
