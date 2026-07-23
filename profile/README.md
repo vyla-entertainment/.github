@@ -1,6 +1,6 @@
 <div align="center">
 
-![Vyla](https://vyla.pages.dev/assets/images/thumbnail.png)
+![Vyla](https://vyla.cc/assets/images/thumbnail.png)
 
 # Vyla Entertainment
 
