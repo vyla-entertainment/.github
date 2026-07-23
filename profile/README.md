@@ -32,6 +32,7 @@ It is designed for a mobile-first experience with a unified API layer that deliv
 
 ## Ecosystem Components
 
-- **Vyla API** — Backend API layer for media routing and content resolution  
-- **Vyla Player** — Main player frontend for unified media access
+- **Vyla API** — Backend API layer for media routing and content resolution.
+- **Vyla Player** — Main player frontend for unified media access.
+- **Vyla Home** - Desktop version of Vyla, built to run entirely on your own computer instead of on a website.
 - **Vyla Cli-Player** - Fun frontend developement using the stream API.
