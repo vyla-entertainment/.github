@@ -9,6 +9,10 @@ Personal use · Multi-source aggregation · Edge-powered APIs
 
 </div>
 
+> [!IMPORTANT]
+> This org is no longer active. You can find Vyla's project sources on GitLab
+> under the same org name: [gitlab.com/vyla-entertainment/](https://gitlab.com/vyla-entertainment/)
+
 ---
 
 Vyla Entertainment is an integrated media system that connects multiple streaming providers through a single interface. It centralizes movies and TV shows by routing requests across distributed APIs and metadata sources.
